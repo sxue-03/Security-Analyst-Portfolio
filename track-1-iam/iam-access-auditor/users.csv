@@ -1,0 +1,8 @@
+username,full_name,department,role,last_login,is_admin,status
+jsmith,John Smith,Engineering,Developer,2025-12-01,False,active
+alee,Amy Lee,HR,HR Manager,2026-03-20,False,active
+bwilson,Bob Wilson,Finance,Analyst,,False,active
+mgarcia,Maria Garcia,IT,SysAdmin,2025-09-10,True,active
+tjones,Tom Jones,Engineering,Developer,2026-01-15,False,disabled
+rchen,Rachel Chen,Security,Security Lead,2026-04-01,True,active
+
