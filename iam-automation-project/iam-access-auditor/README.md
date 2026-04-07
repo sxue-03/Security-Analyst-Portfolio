@@ -37,6 +37,7 @@ Requires Python 3. No external libraries needed.
 
 ## What I learned
 
+The goal of this project is not just coding or building the final result. It’s about going through the process, understanding how things work, and learning the logic behind each step.
 
 ## Tools used
 
