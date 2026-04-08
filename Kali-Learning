@@ -1,0 +1,17 @@
+Common command: 
+ls: check home directory 
+touch: create file
+cat: check file context
+echo>: replace a to b 
+echo>>: add b
+rm -f - delete
+mkdir: create folder
+rmdir: delete folder
+bzip2: compress the file
+bunzip2: uncompress the file 
+gzip: compress the file 
+gunzip: uncompress the file 
+apt-get install rar: install compress file function 
+rar a name.rar name: compress
+rar x name.rar: delete the compress file
+tar - jcvf:
