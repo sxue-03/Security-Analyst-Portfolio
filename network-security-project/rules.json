@@ -1,0 +1,9 @@
+[
+  {"rule_id": 1, "protocol": "TCP", "port": 22,   "source": "0.0.0.0/0",     "action": "ALLOW"},
+  {"rule_id": 2, "protocol": "TCP", "port": 443,  "source": "0.0.0.0/0",     "action": "ALLOW"},
+  {"rule_id": 3, "protocol": "TCP", "port": 3306, "source": "0.0.0.0/0",     "action": "ALLOW"},
+  {"rule_id": 4, "protocol": "TCP", "port": 80,   "source": "0.0.0.0/0",     "action": "ALLOW"},
+  {"rule_id": 5, "protocol": "TCP", "port": 22,   "source": "10.0.0.0/8",    "action": "ALLOW"},
+  {"rule_id": 6, "protocol": "TCP", "port": 3389, "source": "0.0.0.0/0",     "action": "ALLOW"},
+  {"rule_id": 7, "protocol": "TCP", "port": 443,  "source": "192.168.1.5/32","action": "ALLOW"}
+]
