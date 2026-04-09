@@ -1,6 +1,0 @@
-boto3
-cryptography
-dnspython
-scapy
-pyyaml
-jinja2
